@@ -11,5 +11,9 @@ class Calculator:
         return self.a+self.b
 
     def substraction(self) -> float:
-        return self.a-self.b        
+        return self.a-self.b
+
+
+    def multiplication(self) -> float:
+        return self.a*self.b                 
    
